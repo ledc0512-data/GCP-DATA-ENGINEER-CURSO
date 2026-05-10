@@ -21,7 +21,7 @@ def crear_bucket_gcp(nombre_bucket, proyecto_id, region="us-central1"):
 
 # --- CONFIGURACION ---
 # REEMPLAZA ESTO: Pon entre las comillas el ID que copiaste en el paso 1
-MI_PROYECTO = "gcp-data-engineer-curso-495622" 
+MI_PROYECTO = "ledc-dataengineer-pipeline" 
 
 # REEMPLAZA ESTO: Un nombre unico (solo letras minusculas, numeros y guiones)
 MI_BUCKET = "lenin-bucket-logistica-2026"
